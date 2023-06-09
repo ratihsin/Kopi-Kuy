@@ -1,0 +1,76 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_cold_coffee.jpg",
+            "nama": "Cold Espresso",
+            "size": "100 Gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=cold+espresso&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_short_macchiato.jpg",
+            "nama": "Short Macchiato",
+            "size": "100 Gram",
+            "harga": "155.000",
+            "link": "https://www.google.com/search?q=short+macchiato&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/frappuccino_latte.jpg",
+            "nama": "Frappuccino Latte",
+            "size": "250 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=frappuccino+latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_americano_dark_coffe.jpg",
+            "nama": "Americano Dark Coffee",
+            "size": "150 Gram",
+            "harga": "325.000",
+            "link": "https://www.google.com/search?q=americano+dark+coffee&tbm=shop"
+        }
+    ]
+}
